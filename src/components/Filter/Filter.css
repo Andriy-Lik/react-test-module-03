@@ -1,3 +1,10 @@
 .Filter {
     margin-bottom: 20px;
 }
+
+.Filter__input {
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 7px;
+}
